@@ -23,10 +23,10 @@
 ////////CHANGE! USE LNURLPoS EXTENSION IN LNBITS////////
 ////////////////////////////////////////////////////////
 
-String server = "https://legend.lnbits.comn";
-String posId = "dwKhbkWEEBgpw7Frz93y4S";
-String key = "mJwMq8rcnA9dY2fiRcTdtF";
-String currency = "USD";
+String server = "https://legend.lnbits.com";
+String posId = "TCGQL67qZbpT2ZkYgfub7p";
+String key = "6CinT8TwQjkiGiTo4r8C5o";
+String currency = "EUR";
 
 ////////////////////////////////////////////////////////
 ////Note: See lines 75, 97, to adjust to keypad size////
